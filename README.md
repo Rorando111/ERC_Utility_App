@@ -9,6 +9,7 @@ Libraries and Dependencies installed:
 Tasks to remember before using the app:
 
 Before using the app, "tesseract-ocr.exe" must be installed first
+
 When opening the app (this is for every use of the app), before using any of the app's features, click the tesseract icon to manually set the paths of tesseract and poppler.
 If the user have an administrative access, you can add the path of Tesseract and Poppler to the Environment Variables
 - To do this: (You can skip the first 5 steps by just searching "Edit the System Environment Variables" on your device)
