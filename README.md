@@ -26,7 +26,7 @@ After doing this, you don't have to manually set the paths for poppler and tesse
 Examples of Tesseract and Poppler Paths:
 - Poppler: C:\Program Files\poppler-24.08.0\Library\bin
 - Tesseract: C:\Program Files\Tesseract-OCR
-- 
+
 ---
 
 ## 🚀 Features
