@@ -40,6 +40,8 @@ def get_poppler_path():
     config = load_ocr_config()
     path = config.get("poppler_path")
     if path and os.path.exists(path):
+        os.environ["POPPLER_PATH"] = path
+        print(f"Setting POPPLER_PATH to: {path}")
         return path
     return None
 
