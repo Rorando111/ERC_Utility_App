@@ -118,8 +118,7 @@ erc-pdfut/
 |   ├── helpers.py
 |   ├── image_utils.py
 
-```x`
-
+````
 ---
 
 ## 🤝 Developers:
